@@ -5,3 +5,6 @@ console.log("Feature Baru")
 
 console.log("Feature Baru")
 console.log("Feature Baru")
+
+
+console.log("development Feature Baru")
